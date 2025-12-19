@@ -43,7 +43,6 @@ Finally, we examine whether performance differs by sector by computing accuracy 
 
 <img width="984" height="384" alt="download (2)" src="https://github.com/user-attachments/assets/21fe64cc-2e78-4ec7-94f4-10c5cdf0f5e4" />
 
-<img width="993" height="384" alt="download (3)" src="https://github.com/user-attachments/assets/fa679ad0-e7f0-41b6-b2ca-a6eb01f52e97" />
 
 ## Conclusion and Next Steps:
 
