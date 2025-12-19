@@ -1,5 +1,5 @@
 # Final Project README: Sentiment Signals and Market Reaction (CAR5)
-
+##*Ahmad Alshikh Menou, Risha Baid*
 
 ## Introduction:
 
