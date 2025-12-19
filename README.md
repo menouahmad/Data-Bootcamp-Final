@@ -1,6 +1,5 @@
 # Final Project README: Sentiment Signals and Market Reaction (CAR5)
 
-Repository link: <PASTE YOUR GITHUB REPO LINK HERE>
 
 ## Introduction:
 
